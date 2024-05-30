@@ -12,6 +12,7 @@
 class Stock:
     pass
 
+
 # ~~~~~~~~~ TEST CODE ~~~~~~~~~
 msft = Stock("MSFT", 342.0, "Microsoft Corp")
 goog = Stock("GOOG", 135.0, "Google Inc")
